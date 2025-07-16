@@ -10,14 +10,6 @@ A proposta deste desafio é treinar a estruturação de um feed estático, semel
 
 ---
 
-## 🖥️ Preview
-
-Abaixo está uma prévia visual do projeto:
-
-![Preview do Feed](https://sujeitoprogramador.com/instareact/foto1.png)
-
----
-
 ## 💻 Tecnologias Utilizadas
 
 - HTML5
